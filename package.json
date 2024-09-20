@@ -1,0 +1,27 @@
+{
+  "name": "vscode-elements",
+  "description": "Language support for VSCode Elements",
+  "version": "0.0.1",
+  "license": "MIT",
+  "preview": true,
+  "publisher": "adam-bender",
+  "repository": "https://github.com/vscode-elements/language-support-extension",
+  "engines": {
+    "vscode": "^1.38.0"
+  },
+  "contributes": {
+    "html": {
+      "customData": [
+        "./node_modules/@vscode-elements/elements/vscode.html-custom-data.json"
+      ]
+    },
+    "css": {
+      "customData": [
+        "./node_modules/@vscode-elements/elements/vscode.css-custom-data.json"
+      ]
+    }
+  },
+  "dependencies": {
+    "@vscode-elements/elements": "^1.5.0"
+  }
+}

@@ -1,0 +1,6 @@
+**/*
+!node_modules/@vscode-elements/elements/vscode.html-custom-data.json
+!node_modules/@vscode-elements/elements/vscode.css-custom-data.json
+!icon.png
+!LICENSE
+!CHANGELOG.md
