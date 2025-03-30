@@ -1,6 +1,8 @@
 {
   "name": "vscode-elements",
+  "displayName": "VSCode Elements",
   "description": "Language support for VSCode Elements",
+  "icon": "icon.png",
   "version": "0.0.1",
   "license": "MIT",
   "preview": true,
@@ -22,6 +24,6 @@
     }
   },
   "dependencies": {
-    "@vscode-elements/elements": "^1.5.0"
+    "@vscode-elements/elements": "^1.14.0"
   }
 }

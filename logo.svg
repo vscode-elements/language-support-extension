@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="256"
+   height="256"
+   viewBox="0 0 67.733332 67.733333"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.2671489"
+     inkscape:cx="197.38447"
+     inkscape:cy="209.51425"
+     inkscape:window-width="2560"
+     inkscape:window-height="1368"
+     inkscape:window-x="1440"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       fill="#007acc"
+       id="g176"
+       transform="matrix(0.38124836,0,0,0.38175817,1.9495071,19.741996)">
+      <path
+         d="M 115.89,8.141 100.762,0.857 a 4.574,4.574 0 0 0 -5.23,0.89 L 66.537,28.2 53.907,18.616 a 3.042,3.042 0 0 0 -3.908,0.173 l -4.051,3.678 a 3.067,3.067 0 0 0 -0.015,4.526 l 10.963,10 -10.963,10 a 3.067,3.067 0 0 0 0.015,4.526 l 4.051,3.692 c 1.107,0.992 2.745,1.064 3.908,0.173 L 66.537,45.8 95.53,72.251 a 4.552,4.552 0 0 0 5.216,0.89 l 15.144,-7.284 a 4.576,4.576 0 0 0 2.6,-4.138 V 12.28 a 4.552,4.552 0 0 0 -2.6,-4.138 z M 100.129,53.701 78.117,36.991 100.129,20.282 Z M 134.34,0 l -7.81,7.81 29.2,29.19 -29.2,29.188 7.81,7.81 33.095,-33.094 v -7.81 z M 40.904,7.81 11.704,37 l 29.2,29.188 -7.81,7.81 L 0,40.904 v -7.81 L 33.094,0 Z"
+         id="path174" />
+    </g>
+  </g>
+</svg>
