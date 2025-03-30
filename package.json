@@ -3,7 +3,7 @@
   "displayName": "VSCode Elements",
   "description": "Language support for VSCode Elements",
   "icon": "icon.png",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "license": "MIT",
   "preview": true,
   "publisher": "adam-bender",
